@@ -10,7 +10,6 @@
  <br>
 <img src="https://itechzo.com/wp-content/uploads/2019/10/xampp-control-panel.png" alt="" width="100%"> <br>
 <b>ติดตั้งเสร็จแล้ว</b>
-<br>
 <ui>
   <li>กด Start Apache</li>
   <li>กด Start MySQL</li>
@@ -18,8 +17,7 @@
 <br>
 <p>ให้ขึ้นเป็นสีเขียนเหมือนในรูปตัวอย่าง</p>
 <hr>
-<h3>สร้าง index Start Web</h3>
-<br>
+<b>สร้าง index Start Web</b>
 <ui>
   <li>กด Start Apache</li>
   <li>กด Start MySQL</li>
