@@ -1,7 +1,7 @@
 # testlocalhost
 ทดสอบการทำงาน localhost 
 <hr>
-<h3>ติดตั้ง <a href="https://www.apachefriends.org/index.html">XAMPP</a></h3>
+<h3>ติดตั้ง <a href="https://www.apachefriends.org/index.html">XAMPP V. 7.x.xx / PHP 7.x.xx</a></h3>
 <br>
 ลิงก์ดาวน์โหลด : https://www.apachefriends.org/download.html <br>
 <b>ระบบ : </b> Mac & Windows มีทั้งสองระบบ  <br>
@@ -17,6 +17,14 @@
 </ul>
 <br>
 <p>ให้ขึ้นเป็นสีเขียนเหมือนในรูปตัวอย่าง</p>
+<hr>
+<h3>สร้าง index Start Web</h3>
+<br>
+<ui>
+  <li>กด Start Apache</li>
+  <li>กด Start MySQL</li>
+</ul>
+<br>
 <hr>
 <h3>ช่องทางการติดตาม</h3>
 Web : www.naelike.com <br>
